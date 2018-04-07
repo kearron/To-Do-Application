@@ -1,0 +1,160 @@
+#list{
+    list-style-type: none;
+}
+
+.container-fluid {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.gb-form-group{
+    margin-right: 15px;
+}
+
+.fa-trash-o,.fa-search{
+    font-size : 20;
+    width: 15px;
+    height: 20px;
+}
+
+.fa-trash,.fa-pencil{
+    font-size : 20;
+    width: 15px;
+    height: 20px;
+}
+
+.fa-plus-circle{
+    font-size : 35;
+}
+
+.jumbotron{
+    margin-left: 200px;
+    padding-bottom: 5px;
+    padding-top: 20px;
+    border-bottom-width: 5px;
+}
+
+.input-group{
+    width: 630px;
+}
+
+.gb-btn{
+    height: 54px;
+    border-left-width: 1px;
+
+}
+
+.gb-form-1{
+    width: 826px;
+    height: 54px;
+    border-left-width: 1px;
+}
+
+.gb-select{
+    width: 826px;
+    height: 54px;
+    border-left-width: 1px;
+}
+
+
+
+.gb-separate{
+    padding-left: 200px;
+    padding-top: 30px;
+}
+
+.gb-addBtn{
+    width: 67px;
+    height: 54px;
+}
+
+
+.gb-col-2-add{
+    padding-left: 7px;
+    padding-right: 00px;
+    width: 57px;
+}
+
+.gb-col-2-select{
+    padding-left: 00px;
+    padding-right: 00px;
+    width: 160px;
+}
+
+
+.col-md-6{
+    padding-left: 0px;
+}
+
+
+.gb-col-2-check{
+    padding-left: 00px;
+    padding-right: 0px;
+    width: 60px;
+    height: 55px;
+}
+
+.gb-span-checkBox{
+    width: 74px;
+    padding-top: 20px;
+    padding-bottom: 12px;
+
+}
+
+.gb-checkBox{
+    width: 20px;
+    height: 20px;
+   
+}
+
+.gb-span-editBtn,.gb-span-removeBtn{
+    padding-bottom: 13px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+    padding-top: 12px;
+}
+
+.gb-ul-col{
+    padding-left: 0px;
+    padding-right: 0px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+    /* width: 73px; */
+    width: 65px;
+}
+
+.gb-ul-col-6{
+    width: 415px;
+}
+
+.gb-row-list{
+    height: 58px;
+}
+
+.gb-sideBar-font{
+    font-family: sans-serif;
+    font-size: 15;
+
+}
+
+.gb-span-list,.gb-form-1,.gb-select{
+    font-family: sans-serif;
+    font-size: 20;
+
+}
+
+.jumbotron{
+    font-family: sans-serif; 
+}
+
+
+
+.gb-li-header{
+    font-size: 25;
+    color: darkgreen;
+}
+
+.gb-removeBtn,.gb-editBtn{
+    width: 61px;
+    height: 49px;
+}
